@@ -23,4 +23,8 @@ public class Calls extends AppCompatActivity {
         3. create a new aidl file ITelephony
          */
     }
+
+    private void check(){
+        //this is to check if vcs is working or not
+    }
 }
