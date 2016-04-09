@@ -27,4 +27,8 @@ public class Calls extends AppCompatActivity {
     private void check(){
         //this is to check if vcs is working or not
     }
+
+    private void check(int a){
+        //this is to check if vcs is working or not
+    }
 }
